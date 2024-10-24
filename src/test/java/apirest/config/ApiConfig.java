@@ -1,4 +1,4 @@
-package APIREST.config;
+package apirest.config;
 
 public class ApiConfig {
 

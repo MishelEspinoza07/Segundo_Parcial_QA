@@ -1,4 +1,4 @@
-package APIREST.configUSER;
+package apirest.configUSER;
 
 public class ApiConfigUser {
 

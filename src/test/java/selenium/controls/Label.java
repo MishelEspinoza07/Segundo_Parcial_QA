@@ -1,4 +1,4 @@
-package SELENIUM.controls;
+package selenium.controls;
 
 import org.openqa.selenium.By;
 

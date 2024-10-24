@@ -1,4 +1,4 @@
-package APIREST.Tests;
+package apirest.tests;
 
 public class CreateUserProject {
 }

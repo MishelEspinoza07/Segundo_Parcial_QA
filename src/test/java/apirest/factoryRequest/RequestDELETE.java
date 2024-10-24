@@ -1,4 +1,4 @@
-package APIREST.factoryRequest;
+package apirest.factoryRequest;
 
 import io.restassured.response.Response;
 

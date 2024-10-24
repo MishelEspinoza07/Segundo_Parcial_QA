@@ -1,8 +1,8 @@
-package SELENIUM.controls;
+package selenium.controls;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import SELENIUM.session.Session;
+import selenium.session.Session;
 
 public class Controls {
 

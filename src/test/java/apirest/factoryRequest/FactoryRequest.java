@@ -1,4 +1,4 @@
-package APIREST.factoryRequest;
+package apirest.factoryRequest;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package SELENIUM.pages.todoly;
+package selenium.pages.todoly;
 
-import SELENIUM.controls.Button;
+import selenium.controls.Button;
 import org.openqa.selenium.By;
 
 public class SubMenuOptionSection {

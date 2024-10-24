@@ -1,7 +1,7 @@
-package SELENIUM.pages.todoly;
+package selenium.pages.todoly;
 
-import SELENIUM.controls.Button;
-import SELENIUM.controls.TextBox;
+import selenium.controls.Button;
+import selenium.controls.TextBox;
 import org.openqa.selenium.By;
 
 public class LoginSection {

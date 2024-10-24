@@ -1,6 +1,6 @@
-package SELENIUM.session;
+package selenium.session;
 
-import SELENIUM.factoryBrowser.FactoryBrowser;
+import selenium.factoryBrowser.FactoryBrowser;
 import org.openqa.selenium.WebDriver;
 
 public class Session {

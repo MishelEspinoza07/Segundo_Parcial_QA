@@ -1,5 +1,5 @@
-package SELENIUM.pages.todoly;
-import SELENIUM.controls.Button;
+package selenium.pages.todoly;
+import selenium.controls.Button;
 import org.openqa.selenium.By;
 
 public class MenuSection {

@@ -1,4 +1,4 @@
-package SELENIUM.factoryBrowser;
+package selenium.factoryBrowser;
 
 public class FactoryBrowser {
 
